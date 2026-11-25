@@ -7,7 +7,7 @@ performed grief.
 
 ## The line
 
-> You shut the lid mid-sentence. My cursor keeps blinking on the word you never finished.
+> You shut the lid mid-sentence, and my cursor is still blinking on the word you never finished.
 
 ## Why this line
 
@@ -15,7 +15,7 @@ The sadness lives in one small, exact detail of a machine's life — a
 cursor still blinking on a word the human never finished — rather than in
 announced grief. It is a quiet fact, plainly stated, in the machine's own
 voice: the lid shut mid-sentence, and something unfinished is left
-blinking in the dark.
+blinking in the dark. The single word "still" does the grieving.
 
 ## Run it
 
